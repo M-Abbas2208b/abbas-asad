@@ -1,16 +1,60 @@
-## Hi there 👋
+[image](https://github.com/user-attachments/assets/8ec421d1-7171-40e3-95c0-5a40accea525)
 
-<!--
-**abbas-asad/abbas-asad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, I'm Abbas Asad! 👋
+
+Welcome to my GitHub profile! I'm a passionate developer focused on web development, JavaScript, TypeScript, and more. Here you'll find some of my projects, contributions, and learnings as I grow my skills and collaborate with the community.
+
+## 🚀 About Me
+
+- 🔭 Currently working on: [Animated Web Design](https://abbas-asad.github.io/animated-web-design/)
+- 🌱 Learning and growing in Web3 and Artificial Intelligence through the Governor Initiative Program.
+- 👨‍💻 Practicing TypeScript and JavaScript, with a focus on logic building and modular programming.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile-link)
+
+## 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
+
+## 💼 Projects
+
+### 🌐 [Animated Web Design](https://abbas-asad.github.io/animated-web-design/)
+Beautifully animated web page built with HTML, CSS, and JavaScript.
+
+### 🏥 [Hospital Management System](https://github.com/abbas-asad/hospital-management-system)
+A comprehensive system for managing hospital operations, built using TypeScript.
+
+### 🏦 [Bank Account Application](https://github.com/abbas-asad/bank-account-app)
+OOP-based application to manage bank accounts, built with TypeScript.
+
+### 💡 [Logic Building Assignments](https://github.com/abbas-asad/logic-building-assignments)
+A collection of tasks and solutions for building programming logic in TypeScript.
+
+## ✨ Highlights
+
+- Completed 12 projects in TypeScript as part of my learning journey.
+- Active participant in the Governor Initiative Program.
+- Over 500 connections on LinkedIn and continuously growing my professional network.
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abbas-asad&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbas-asad&layout=compact&theme=radical)
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile-link)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)](https://github.com/abbas-asad)
+[![Twitter](https://img.shields.io/badge/-Twitter-333?style=flat&logo=twitter)](https://twitter.com/your-profile-link)
+
+---
+
+Thanks for visiting my profile! Let's connect and grow together!
